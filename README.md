@@ -3,7 +3,7 @@
 A responsive weather app built with React.js and Tailwind CSS.
 
 ## 🔗 Live Demo
-[weather-app-ayushi.vercel.app](ttps://weather-app-pi-liart-11.vercel.app/)
+[weather-app-ayushi.vercel.app](https://weather-app-pi-liart-11.vercel.app/)
 
 ## ✨ Features
 - Search weather by city name
