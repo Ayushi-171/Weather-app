@@ -1,5 +1,4 @@
 # 🌤️ Weather App
-<<<<<<< HEAD
 > Real-time weather and 5-day forecast for any city in the world  
 > — built with React.js and Tailwind CSS.
  
@@ -20,14 +19,6 @@ A responsive weather application where users can search any city or use their cu
 - **Vercel** — Deployment and hosting
 ---
  
-=======
-
-A responsive weather app built with React.js and Tailwind CSS.
-
-## 🔗 Live Demo
-[weather-app-ayushi.vercel.app](https://weather-app-pi-liart-11.vercel.app/)
-
->>>>>>> 7dfeaf10c674c91ec1161c54ef18aaf9f2acbee1
 ## ✨ Features
 - Search weather by city name
 - Auto-detect location using browser Geolocation API
@@ -56,7 +47,7 @@ weather-app/
 ---
  
 ## 🚀 Run Locally
-<<<<<<< HEAD
+
  
 ```bash
 # 1. Clone the repo
@@ -100,8 +91,3 @@ npm start
 [GitHub](https://github.com/Ayushi-171) ·
 [LinkedIn](https://linkedin.com/in/ayushi-swami-aayu)
  
-=======
-1. Clone the repo
-2. Create .env file with REACT_APP_WEATHER_API_KEY=your_key
-3. npm install && npm start
->>>>>>> 7dfeaf10c674c91ec1161c54ef18aaf9f2acbee1
